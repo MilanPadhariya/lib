@@ -1,0 +1,13 @@
+{
+	"name": "model-meta",
+	"version": "1.0.0",
+	"description": "Model Meta Info Generator",
+	"main": "",
+	"scripts": {
+		"start": "ts-node ./generate.ts"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {},
+	"devDependencies": {}
+}
